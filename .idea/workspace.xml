@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd433d4-3274-4c00-949d-18e4757e5b4d" name="Changes" comment="java pratice">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopNumberA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopNumberB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopNumberC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopNumberD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopPatternA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopPatternB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopPatternC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopPatternD.java" afterDir="false" />
-    </list>
+    <list default="true" id="0bd433d4-3274-4c00-949d-18e4757e5b4d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658092746949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java pratice">
+      <created>1658092791956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658092791956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
